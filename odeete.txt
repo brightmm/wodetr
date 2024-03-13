@@ -1,0 +1,53 @@
+### Privacy Policy
+
+#### Introduction
+
+At Nano tech ("We," "us," or "our"), we take the privacy of our users ("you") seriously. This Privacy Policy explains how we collect, use, and protect your personal information when you interact with our mobile application (the "App"). We encourage you to read this Privacy Policy fully to understand our privacy practices. By using the App, you consent to the collection and use of information in accordance with this policy. We may update this policy from time to time, and we will inform you of any changes by posting the updated policy on the App or our website, and through other communication channels. Your continued use of the App after such changes constitutes your agreement to the updated policy.
+
+#### 1. Information Collection
+
+We collect information in the following ways:
+
+- Non-personal information we collect may include technical details such as your device's operating system, screen resolution, device type, language settings, internet service provider, device identifiers (e.g., Google Advertising ID), app usage metrics, and general usage behavior.
+  
+- Personal information we collect may include identifiable details such as your name, date of birth, gender, phone number, email address, and username, as well as information from third-party sign-in services such as Google or Facebook if you choose to use those services to log in.
+
+#### 2. Use of Collected Information
+
+We use the collected data for the following purposes:
+
+- To provide, maintain, and improve our Services, verify user identity, enable communication, and deliver personalized advertisements.
+  
+- To enhance the overall user experience within the App, and to customize promotions and offers to suit your preferences.
+  
+- To ensure the security and integrity of our systems, which includes preventing unauthorized access, fraud, and other illegal activities.
+  
+- To comply with applicable laws and regulations.
+
+#### 3. Information Sharing
+
+We do not sell, trade, or rent your personal information to others. We may share information with third-party service providers, business affiliates, and advertisers to facilitate the operation of our Services, always under strict confidentiality agreements and in compliance with applicable data protection regulations.
+
+#### 4. Information Security
+
+We employ a variety of security measures, including physical, administrative, and technical safeguards, as well as encryption where appropriate, to protect your information from unauthorized access, disclosure, alteration, or destruction.
+
+#### 5. Data Retention
+
+We retain your information for as long as necessary to provide you with the Services, fulfill the purposes outlined in this Privacy Policy, comply with our legal obligations, resolve disputes, and enforce our agreements. After this period, your information will be securely deleted or anonymized for analytical purposes.
+
+#### 6. EU User Rights
+
+For users in the European Union (EU), you have additional rights under the General Data Protection Regulation (GDPR), such as the right to access, rectify, or erase your personal data, and the right to data portability. Data may be transferred outside the EU to countries with different levels of data protection, and by using the App, you consent to these transfers. You can withdraw your consent at any time.
+
+#### 7. Children's Privacy
+
+We do not knowingly collect personal information from children under the age of 13 (or under 16 in the EU). If we become aware that we have collected personal information from a child without verifiable parental consent, we will take steps to remove that information from our servers.
+
+#### 8. Your Privacy Rights
+
+You can review, update, or correct your personal information through your App account or by contacting us. You have the right to restrict the processing of your data, request data deletion, and object to our data handling practices. To exercise these rights, please contact us for verification, and we will adhere to applicable privacy laws.
+
+#### 9. Contact Us
+
+For any questions or concerns regarding your personal data or this Privacy Policy, please contact us at technologynano5@gmail.com.
